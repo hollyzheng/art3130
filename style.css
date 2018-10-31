@@ -1,0 +1,19 @@
+body{
+    background-color: yellow;
+    font-family: sans-serif;
+  
+}
+
+h1 {
+    color: red;
+}
+
+div {
+    border: 5px dashed red;
+    border-top: 5px solid red;
+}
+
+.class {
+    border-color: green;
+}
+
